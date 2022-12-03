@@ -7,8 +7,8 @@ Term: Fall 2022
 
 + Projec title: 
 + Team members
-	+ Fang, Jiaxi  w124619351@gmail.com
-	+ Wang, Fu     w124619351@gmail.com
+	+ Fang, Jiaxi  jf3413@columbia.edu
+	+ Wang, Fu     fw2376@columbia.edu
 	+ Zhao, Yizhou yz3989@columbia.edu
 	+ Zhang, Ruiyu rz2518@columbia.edu
 + Project summary:
